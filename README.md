@@ -9,3 +9,4 @@
 | [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) | 2022-05-07 |
 | [Eliminating Receive Livelock in an Interrupt-driven Kernel](https://dl.acm.org/doi/10.1145/263326.263335) | 2022-05-08 |
 | [Meltdown: Reading Kernel Memory from User Space](https://dl.acm.org/doi/10.1145/3357033) | 2022-05-11 |
+| [RCU Usage In the Linux Kernel: One Decade Later](https://dl.acm.org/doi/abs/10.1145/3421473.3421481) | 2022-05-12 |
