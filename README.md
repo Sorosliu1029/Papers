@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [The Google File System](https://dl.acm.org/doi/10.1145/1165389.945450) | TBD |
 | [MapReduce: Simplified Data Processing on Large Clusters](https://dl.acm.org/doi/10.1145/1327452.1327492) | 2022-05-28 |
 | [The Evolution of the Unix Time-sharing System](https://dl.acm.org/doi/10.5555/645679.664095) | 2022-05-25 |
 | [The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061) | 2022-05-24 |
