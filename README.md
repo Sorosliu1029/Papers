@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [The Design of a Practical System for Fault-Tolerant Virtual Machines](https://dl.acm.org/doi/10.1145/1899928.1899932) | TBD |
 | [The Google File System](https://dl.acm.org/doi/10.1145/1165389.945450) | 2022-06-03 |
 | [MapReduce: Simplified Data Processing on Large Clusters](https://dl.acm.org/doi/10.1145/1327452.1327492) | 2022-05-28 |
 | [The Evolution of the Unix Time-sharing System](https://dl.acm.org/doi/10.5555/645679.664095) | 2022-05-25 |
