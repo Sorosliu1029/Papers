@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) | 2022-06-06 |
 | [The Design of a Practical System for Fault-Tolerant Virtual Machines](https://dl.acm.org/doi/10.1145/1899928.1899932) | 2022-06-05 |
 | [The Google File System](https://dl.acm.org/doi/10.1145/1165389.945450) | 2022-06-03 |
 | [MapReduce: Simplified Data Processing on Large Clusters](https://dl.acm.org/doi/10.1145/1327452.1327492) | 2022-05-28 |
