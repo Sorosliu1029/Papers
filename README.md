@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Chain Replication for Supporting High Throughput and Availability](https://dl.acm.org/doi/10.5555/1251254.1251261) | TBD |
 | [ZooKeeper: Wait-free coordination for Internet-scale systems](https://dl.acm.org/doi/10.5555/1855840.1855851) | 2022-06-27 |
 | [In Search of an Understandable Consensus Algorithm (Extended Version)](https://dl.acm.org/doi/10.5555/2643634.2643666) | 2022-06-19 |
 | [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) | 2022-06-06 |
