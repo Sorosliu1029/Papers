@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [ZooKeeper: Wait-free coordination for Internet-scale systems](https://dl.acm.org/doi/10.5555/1855840.1855851) | 2022-06-27 |
 | [In Search of an Understandable Consensus Algorithm (Extended Version)](https://dl.acm.org/doi/10.5555/2643634.2643666) | 2022-06-19 |
 | [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) | 2022-06-06 |
 | [The Design of a Practical System for Fault-Tolerant Virtual Machines](https://dl.acm.org/doi/10.1145/1899928.1899932) | 2022-06-05 |
