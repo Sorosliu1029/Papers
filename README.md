@@ -2,7 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
-| [Frangipani: A Scalable Distributed File System](https://dl.acm.org/doi/10.1145/269005.266694) | TBD |
+| [Frangipani: A Scalable Distributed File System](https://dl.acm.org/doi/10.1145/269005.266694) | 2022-07-10 |
 | [Chain Replication for Supporting High Throughput and Availability](https://dl.acm.org/doi/10.5555/1251254.1251261) | 2022-06-29 |
 | [ZooKeeper: Wait-free coordination for Internet-scale systems](https://dl.acm.org/doi/10.5555/1855840.1855851) | 2022-06-27 |
 | [In Search of an Understandable Consensus Algorithm (Extended Version)](https://dl.acm.org/doi/10.5555/2643634.2643666) | 2022-06-19 |
