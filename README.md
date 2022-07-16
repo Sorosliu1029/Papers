@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://dl.acm.org/doi/10.5555/2228298.2228301) | 2022-07-16 |
 | [No compromises: distributed transactions with consistency, availability, and performance](https://dl.acm.org/doi/10.1145/2815400.2815425) | 2022-07-14 |
 | [Spanner: Google’s Globally-Distributed Database](https://dl.acm.org/doi/10.1145/2491245) | 2022-07-11 |
 | [Frangipani: A Scalable Distributed File System](https://dl.acm.org/doi/10.1145/269005.266694) | 2022-07-10 |
