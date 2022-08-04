@@ -2,7 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
-| [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593) | WIP |
+| [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593) | 2022-08-04 |
 | [Scaling Memcache at Facebook](https://dl.acm.org/doi/10.5555/2482626.2482663) | 2022-07-17 |
 | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://dl.acm.org/doi/10.5555/2228298.2228301) | 2022-07-16 |
 | [No compromises: distributed transactions with consistency, availability, and performance](https://dl.acm.org/doi/10.1145/2815400.2815425) | 2022-07-14 |
