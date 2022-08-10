@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) | 2022-08-10 |
 | [Secure Untrusted Data Repository (SUNDR)](https://dl.acm.org/doi/10.5555/1251254.1251263) | 2022-08-05 |
 | [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593) | 2022-08-04 |
 | [Scaling Memcache at Facebook](https://dl.acm.org/doi/10.5555/2482626.2482663) | 2022-07-17 |
