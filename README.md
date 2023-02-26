@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf) | 2023-02-26 |
 | [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://dl.acm.org/doi/10.5555/3026959.3026977) | 2022-08-13 |
 | [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) | 2022-08-10 |
 | [Secure Untrusted Data Repository (SUNDR)](https://dl.acm.org/doi/10.5555/1251254.1251263) | 2022-08-05 |
