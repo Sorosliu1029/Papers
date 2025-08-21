@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [What Goes Around Comes Around… And Around…](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) | 2025-08-20 |
 | [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf) | 2023-02-26 |
 | [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://dl.acm.org/doi/10.5555/3026959.3026977) | 2022-08-13 |
 | [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) | 2022-08-10 |
