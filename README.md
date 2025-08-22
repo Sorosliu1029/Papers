@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) | 2025-08-22 |
 | [What Goes Around Comes Around… And Around…](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) | 2025-08-20 |
 | [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf) | 2023-02-26 |
 | [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://dl.acm.org/doi/10.5555/3026959.3026977) | 2022-08-13 |
