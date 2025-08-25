@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) | 2025-08-24 |
 | [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) | 2025-08-22 |
 | [What Goes Around Comes Around… And Around…](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) | 2025-08-20 |
 | [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf) | 2023-02-26 |
