@@ -2,6 +2,8 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [How to Read a Computer Science Research Paper](https://people.cs.pitt.edu/~litman/courses/cs2710/papers/howtoreadacspaper.pdf) | 2025-08-30 |
+| [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
 | [How to Read a Paper](https://doi.org/10.1145/1273445.1273458) | 2025-08-30 |
 | [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/abs/2503.20481) | 2025-08-29 |
 | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703) | 2025-08-25 |
