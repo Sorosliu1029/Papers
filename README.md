@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/abs/2503.20481) | 2025-08-29 |
 | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703) | 2025-08-25 |
 | [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) | 2025-08-24 |
 | [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) | 2025-08-22 |
