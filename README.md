@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [How to Read a Paper](https://doi.org/10.1145/1273445.1273458) | 2025-08-30 |
 | [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/abs/2503.20481) | 2025-08-29 |
 | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703) | 2025-08-25 |
 | [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) | 2025-08-24 |
