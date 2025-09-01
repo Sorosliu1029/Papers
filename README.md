@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](https://dl.acm.org/doi/10.1145/3620665.3640366) | 2025-09-01 |
 | [Triton: an intermediate language and compiler for tiled neural network computations](https://doi.org/10.1145/3315508.3329973) | 2025-08-31 |
 | [How to Read a Computer Science Research Paper](https://people.cs.pitt.edu/~litman/courses/cs2710/papers/howtoreadacspaper.pdf) | 2025-08-30 |
 | [How to Read a Paper](https://doi.org/10.1145/1273445.1273458) | 2025-08-30 |
