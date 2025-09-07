@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Scaling Laws for Neural Language Models](http://arxiv.org/abs/2001.08361) | 2025-09-07 |
 | [Optimization Techniques for GPU Programming](https://dl.acm.org/doi/10.1145/3570638) | 2025-09-06 |
 | [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](https://dl.acm.org/doi/10.1145/3620665.3640366) | 2025-09-01 |
 | [Triton: an intermediate language and compiler for tiled neural network computations](https://doi.org/10.1145/3315508.3329973) | 2025-08-31 |
