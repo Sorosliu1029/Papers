@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [PyTorch Distributed: Experiences on Accelerating Data Parallel Training](http://arxiv.org/abs/2006.15704) | 2025-09-07 |
 | [Scaling Laws for Neural Language Models](http://arxiv.org/abs/2001.08361) | 2025-09-07 |
 | [Optimization Techniques for GPU Programming](https://dl.acm.org/doi/10.1145/3570638) | 2025-09-06 |
 | [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](https://dl.acm.org/doi/10.1145/3620665.3640366) | 2025-09-01 |
