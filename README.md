@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](http://arxiv.org/abs/1910.02054) | 2025-09-09 |
 | [PyTorch Distributed: Experiences on Accelerating Data Parallel Training](http://arxiv.org/abs/2006.15704) | 2025-09-07 |
 | [Scaling Laws for Neural Language Models](http://arxiv.org/abs/2001.08361) | 2025-09-07 |
 | [Optimization Techniques for GPU Programming](https://dl.acm.org/doi/10.1145/3570638) | 2025-09-06 |
