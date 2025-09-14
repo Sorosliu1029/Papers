@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](http://arxiv.org/abs/2201.12023) | 2025-09-14 |
 | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](http://arxiv.org/abs/2104.04473) | 2025-09-09 |
 | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](http://arxiv.org/abs/1910.02054) | 2025-09-09 |
 | [PyTorch Distributed: Experiences on Accelerating Data Parallel Training](http://arxiv.org/abs/2006.15704) | 2025-09-07 |
