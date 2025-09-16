@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) | 2025-09-16 |
 | [Varuna: Scalable, Low-cost Training of Massive Deep Learning Models](http://arxiv.org/abs/2111.04007) | 2025-09-14 |
 | [Accelerating Large Graph Algorithms on the GPU Using CUDA](https://link.springer.com/chapter/10.1007/978-3-540-77220-0_21) | 2025-09-14 |
 | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](http://arxiv.org/abs/2201.12023) | 2025-09-14 |
