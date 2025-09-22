@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads](https://www.usenix.org/conference/nsdi25/presentation/khare) | 2025-09-21 |
 | [INFaaS: Automated Model-less Inference Serving](https://www.usenix.org/conference/atc21/presentation/romero) | 2025-09-21 |
 | [Scalable GPU graph traversal](https://doi.org/10.1145/2370036.2145832) | 2025-09-21 |
 | [InferLine: ML Prediction Pipeline Provisioning and Management for Tight Latency Objectives](http://arxiv.org/abs/1812.01776) | 2025-09-16 |
