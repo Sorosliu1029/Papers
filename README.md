@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [An Empirical Evaluation of Columnar Storage Formats](http://arxiv.org/abs/2304.05028) | 2025-09-27 |
 | [A variable warp size architecture](https://dl.acm.org/doi/10.1145/2872887.2750410) | 2025-09-27 |
 | [Gandiva: Introspective Cluster Scheduling for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/xiao) | 2025-09-23 |
 | [SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads](https://www.usenix.org/conference/nsdi25/presentation/khare) | 2025-09-21 |
