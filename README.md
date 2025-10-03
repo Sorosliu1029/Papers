@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling](https://dl.acm.org/doi/10.1145/3625549.3658688) | 2025-10-03 |
 | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/conference/osdi20/presentation/narayanan-deepak) | 2025-09-29 |
 | [TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters](https://doi.org/10.1145/2901318.2901355) | 2025-09-28 |
 | [MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters](https://www.usenix.org/conference/nsdi22/presentation/weng) | 2025-09-28 |
