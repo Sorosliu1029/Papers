@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) | 2025-10-05 |
 | [Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes](https://ieeexplore.ieee.org/document/8686553) | 2025-10-04 |
 | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) | 2025-10-03 |
 | [Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling](https://dl.acm.org/doi/10.1145/3625549.3658688) | 2025-10-03 |
