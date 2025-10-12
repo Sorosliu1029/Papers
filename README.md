@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [DeepSeek-V3 Technical Report](http://arxiv.org/abs/2412.19437) | 2025-10-12 |
 | [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](http://arxiv.org/abs/2401.09670) | 2025-10-06 |
 | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) | 2025-10-05 |
 | [Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes](https://ieeexplore.ieee.org/document/8686553) | 2025-10-04 |
