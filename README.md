@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) | 2025-10-14 |
 | [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) | 2025-10-14 |
 | [DeepSeek-V3 Technical Report](http://arxiv.org/abs/2412.19437) | 2025-10-12 |
 | [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](http://arxiv.org/abs/2401.09670) | 2025-10-06 |
