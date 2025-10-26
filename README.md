@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [UGPU: Dynamically Constructing Unbalanced GPUs for Enhanced Resource Efficiency](https://dl.acm.org/doi/10.1145/3695053.3731103) | 2025-10-25 |
 | [Medha: Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations](http://arxiv.org/abs/2409.17264) | 2025-10-24 |
 | [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) | 2025-10-14 |
 | [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) | 2025-10-14 |
