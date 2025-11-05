@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](http://arxiv.org/abs/1803.03635) | 2025-11-04 |
 | [Fast Inference from Transformers via Speculative Decoding](http://arxiv.org/abs/2211.17192) | 2025-10-28 |
 | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](http://arxiv.org/abs/2205.14135) | 2025-10-28 |
 | [Cartridges: Lightweight and general-purpose long context representations via self-study](http://arxiv.org/abs/2506.06266) | 2025-10-26 |
