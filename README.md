@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Debunking the CUDA Myth Towards GPU-based AI Systems: Evaluation of the Performance and Programmability of Intel's Gaudi NPU for AI Model Serving](https://dl.acm.org/doi/10.1145/3695053.3731050) | 2025-11-07 |
 | [SqueezeLLM: Dense-and-Sparse Quantization](http://arxiv.org/abs/2306.07629) | 2025-11-05 |
 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](http://arxiv.org/abs/1803.03635) | 2025-11-04 |
 | [Fast Inference from Transformers via Speculative Decoding](http://arxiv.org/abs/2211.17192) | 2025-10-28 |
