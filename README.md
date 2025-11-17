@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [A comparison of approaches to large-scale data analysis](https://dl.acm.org/doi/10.1145/1559845.1559865) | 2025-11-17 |
 | [SuperFedNAS: Cost-Efficient Federated Neural Architecture Search for On-Device Inference](http://arxiv.org/abs/2301.10879) | 2025-11-12 |
 | [Flame: Simplifying Topology Extension in Federated Learning](https://dl.acm.org/doi/10.1145/3620678.3624665) | 2025-11-11 |
 | [Bigtable: A Distributed Storage System for Structured Data](https://www.usenix.org/conference/osdi-06/bigtable-distributed-storage-system-structured-data) | 2025-11-11 |
