@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [The Bw-Tree: A B-tree for new hardware platforms](https://ieeexplore.ieee.org/document/6544834) | 2025-12-04 |
 | [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) | 2025-11-19 |
 | [A comparison of approaches to large-scale data analysis](https://dl.acm.org/doi/10.1145/1559845.1559865) | 2025-11-17 |
 | [SuperFedNAS: Cost-Efficient Federated Neural Architecture Search for On-Device Inference](http://arxiv.org/abs/2301.10879) | 2025-11-12 |
