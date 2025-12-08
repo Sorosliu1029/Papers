@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Encapsulation of parallelism in the Volcano query processing system](https://dl.acm.org/doi/10.1145/93605.98720) | 2025-12-08 |
 | [Parallel Database Systems: The Future of High Performance Database Processing](https://www.cs.cmu.edu/~15721-f24/papers/Parallel_Database_Systems.pdf) | 2025-12-08 |
 | [The Case for Learned Index Structures](http://arxiv.org/abs/1712.01208) | 2025-12-08 |
 | [C-store: a column-oriented DBMS](https://dl.acm.org/citation.cfm?id=3226638) | 2025-12-08 |
