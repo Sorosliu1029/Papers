@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Parallel Database Systems: The Future of High Performance Database Processing](https://www.cs.cmu.edu/~15721-f24/papers/Parallel_Database_Systems.pdf) | 2025-12-08 |
 | [The Case for Learned Index Structures](http://arxiv.org/abs/1712.01208) | 2025-12-08 |
 | [C-store: a column-oriented DBMS](https://dl.acm.org/citation.cfm?id=3226638) | 2025-12-08 |
 | [Vectorwise: Beyond Column Stores](http://sites.computer.org/debull/A12mar/vectorwise.pdf) | 2025-12-07 |
