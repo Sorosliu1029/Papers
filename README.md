@@ -3,6 +3,7 @@
 | Name | Finish Date |
 | ---- | ----------- |
 | [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
+| [Vectorwise: Beyond Column Stores](http://sites.computer.org/debull/A12mar/vectorwise.pdf) | 2025-12-07 |
 | [R-trees: a dynamic index structure for spatial searching](https://dl.acm.org/doi/10.1145/602259.602266) | 2025-12-07 |
 | [The Bw-Tree: A B-tree for new hardware platforms](https://ieeexplore.ieee.org/document/6544834) | 2025-12-04 |
 | [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) | 2025-11-19 |
