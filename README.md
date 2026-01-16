@@ -2,7 +2,6 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
-| [Writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) | TODO |
 | [Efficiently compiling efficient query plans for modern hardware](https://dl.acm.org/doi/10.14778/2002938.2002940) | 2025-12-08 |
 | [Encapsulation of parallelism in the Volcano query processing system](https://dl.acm.org/doi/10.1145/93605.98720) | 2025-12-08 |
 | [Parallel Database Systems: The Future of High Performance Database Processing](https://www.cs.cmu.edu/~15721-f24/papers/Parallel_Database_Systems.pdf) | 2025-12-08 |
