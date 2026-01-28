@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://dl.acm.org/doi/10.1145/3079856.3080246) | 2026-01-27 |
 | [TABLA: A unified template-based framework for accelerating statistical machine learning](https://ieeexplore.ieee.org/abstract/document/7446050) | 2026-01-23 |
 | [Efficiently compiling efficient query plans for modern hardware](https://dl.acm.org/doi/10.14778/2002938.2002940) | 2025-12-08 |
 | [Encapsulation of parallelism in the Volcano query processing system](https://dl.acm.org/doi/10.1145/93605.98720) | 2025-12-08 |
