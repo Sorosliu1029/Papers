@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3140659.3080254) | 2026-02-10 |
 | [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://dl.acm.org/doi/10.1145/3079856.3080246) | 2026-01-27 |
 | [TABLA: A unified template-based framework for accelerating statistical machine learning](https://ieeexplore.ieee.org/abstract/document/7446050) | 2026-01-23 |
 | [Efficiently compiling efficient query plans for modern hardware](https://dl.acm.org/doi/10.14778/2002938.2002940) | 2025-12-08 |
