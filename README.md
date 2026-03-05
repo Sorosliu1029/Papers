@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/) | 2026-03-05 |
 | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/chen)
  | 2026-02-17 |
 | [SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3140659.3080254) | 2026-02-10 |
