@@ -5,8 +5,7 @@
 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) | 2026-04-10 |
 | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](http://arxiv.org/abs/1909.08053) | 2026-03-10 |
 | [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/) | 2026-03-05 |
-| [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/chen)
- | 2026-02-17 |
+| [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/chen) | 2026-02-17 |
 | [SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3140659.3080254) | 2026-02-10 |
 | [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://dl.acm.org/doi/10.1145/3079856.3080246) | 2026-01-27 |
 | [TABLA: A unified template-based framework for accelerating statistical machine learning](https://ieeexplore.ieee.org/abstract/document/7446050) | 2026-01-23 |
