@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Xen and the art of virtualization](https://dl.acm.org/doi/10.1145/945445.945462) | 2026-09-18 |
 | [Extensibility safety and performance in the SPIN operating system](https://dl.acm.org/doi/10.1145/224056.224077) | 2026-09-14 |
 | [Exokernel: an operating system architecture for application-level resource management](https://dl.acm.org/doi/10.1145/224057.224076) | 2026-09-06 |
 | [On micro-kernel construction](https://dl.acm.org/doi/10.1145/224057.224075) | 2026-09-04 |
